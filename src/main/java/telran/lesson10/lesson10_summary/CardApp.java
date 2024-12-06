@@ -1,4 +1,4 @@
-package telran.lesson_10.lesson10_summary;
+package telran.lesson10.lesson10_summary;
 
 import java.util.Arrays;
 import java.util.Set;

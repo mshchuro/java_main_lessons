@@ -1,4 +1,4 @@
-package telran.lesson_10.example;
+package telran.lesson10.example;
 
 import java.util.HashSet;
 import java.util.Set;

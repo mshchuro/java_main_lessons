@@ -1,6 +1,4 @@
-package telran.lesson_10;
-
-import java.util.Objects;
+package telran.lesson10;
 
 public class Dog {
 

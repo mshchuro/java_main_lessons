@@ -1,12 +1,12 @@
-package telran.lesson_10.example;
+package telran.lesson10.example;
 
 import java.util.Objects;
 
-public class Person {
+public class Student {
 
     private String name;
 
-    public Person(String name) {
+    public Student(String name) {
         this.name = name;
     }
 
@@ -14,7 +14,7 @@ public class Person {
     public boolean equals(Object o) {
 //        if (this == o) return true;
 //        if (o == null || getClass() != o.getClass()) return false;
-//        Person person = (Person) o;
+//        Student student = (Student) o;
         return true;
     }
 

@@ -1,4 +1,4 @@
-package telran.lesson_10.compare;
+package telran.lesson10.compare;
 
 import java.util.Comparator;
 

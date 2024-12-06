@@ -1,4 +1,4 @@
-package telran.lesson_10.lesson10_summary;
+package telran.lesson10.lesson10_summary;
 
 /**
  * 2. Имеются банковские карты разных платежных систем:

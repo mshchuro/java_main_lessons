@@ -1,4 +1,4 @@
-package telran.lesson_10;
+package telran.lesson10;
 
 public class EqualsExample {
 

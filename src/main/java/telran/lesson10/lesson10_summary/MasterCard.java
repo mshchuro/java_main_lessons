@@ -1,4 +1,4 @@
-package telran.lesson_10.lesson10_summary;
+package telran.lesson10.lesson10_summary;
 
 public class MasterCard extends Card {
 
