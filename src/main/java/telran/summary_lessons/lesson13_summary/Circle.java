@@ -1,4 +1,4 @@
-package telran.lesson13.lesson13_summary;
+package telran.summary_lessons.lesson13_summary;
 
 import java.util.Objects;
 

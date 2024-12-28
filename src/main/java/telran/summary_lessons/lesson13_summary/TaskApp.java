@@ -1,4 +1,4 @@
-package telran.lesson13.lesson13_summary;
+package telran.summary_lessons.lesson13_summary;
 
 //1. Создать набор классов для хранения геометрических фигур:
 //прямоугольник, квадрат, круг, треугольник (пусть для простоты будет только прямоугольный)
@@ -7,9 +7,7 @@ package telran.lesson13.lesson13_summary;
 //4. Добавить метод вычисления площади фигур.
 //5. Составить список из разных геометрических фигур и отсортировать его по площади
 
-import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.List;
 import java.util.TreeSet;
 
 public class TaskApp {
@@ -31,7 +29,5 @@ public class TaskApp {
         treeSet.add(square);
 
         System.out.println(treeSet);
-
-
     }
 }
