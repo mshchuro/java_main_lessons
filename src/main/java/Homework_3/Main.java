@@ -1,10 +1,7 @@
 package Homework_3;
 
-import telran.lesson10.compare.SortByYear;
-
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 public class Main {
